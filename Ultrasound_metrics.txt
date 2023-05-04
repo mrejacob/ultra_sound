@@ -1,0 +1,12 @@
+Name: Muhire Jacob |  Student No: 2200701767
+
+
+
+	precision	 recall	f1-score	 support
+				
+      normal      	0.00	0.00	0.00	112
+        sick       	0.47	0.89	0.62	112
+				
+    accuracy                        0.45	224
+   macro avg       	0.24	0.45	0.31	224
+weighted avg      	0.24	0.45	0.31	224
